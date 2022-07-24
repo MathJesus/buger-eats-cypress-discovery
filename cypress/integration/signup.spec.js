@@ -39,7 +39,7 @@ describe('Register', () => {
 
         var deliver = signupFactory.deliver()
 
-        deliver.email = 'nayara.com.br'
+        deliver.email = 'matheusjesus.com.br'
 
         signup.go()
         signup.fillForm(deliver)

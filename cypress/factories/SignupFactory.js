@@ -13,12 +13,12 @@ export default {
             email: faker.internet.email(firstName),
             whatsapp: '82987066578',
             address: {
-                postalCode: '57071150',
-                street: 'Rua Doutor Murilo Cardoso Santana',
-                number: '200',
+                postalCode: '02209090',
+                street: 'Rua Arauaca',
+                number: '35',
                 details: 'ap 121',
-                district: 'Clima Bom',
-                city_state: 'Maceió/AL'
+                district: 'Vila Gustavo',
+                city_state: 'Sao Paulo/SP'
             },
             delivery_method: 'Moto',
             cnh: 'cnh-digital.jpg'
