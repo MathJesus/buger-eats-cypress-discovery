@@ -14,7 +14,7 @@ export default {
             whatsapp: '82987066578',
             address: {
                 postalCode: '02209090',
-                street: 'Rua Arauaca',
+                street: 'Rua Arauacá',
                 number: '35',
                 details: 'ap 121',
                 district: 'Vila Gustavo',
