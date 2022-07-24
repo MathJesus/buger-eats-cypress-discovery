@@ -18,7 +18,7 @@ export default {
                 number: '35',
                 details: 'ap 121',
                 district: 'Vila Gustavo',
-                city_state: 'Sao Paulo/SP'
+                city_state: 'São Paulo/SP'
             },
             delivery_method: 'Moto',
             cnh: 'cnh-digital.jpg'
